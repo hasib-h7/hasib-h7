@@ -1,3 +1,5 @@
+<p align="center"><img src="./img/pexels-soumil-kumar-735911.jpg" height="200" align="center" ></p>
+
 <h1 align="center">Hi 👋, I'm Hasib Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
